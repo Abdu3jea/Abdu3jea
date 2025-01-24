@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdul jebar
 ===================================================================================================================================
 
-MERN STACK DEVELOPER
+REACT DEVELOPER
 --------------------
 
-The MERN stack is a popular set of technologies that includes MongoDB, Express.js, React.js, and Node.js. Each component of the stack serves a specific purpose in the development process, and together they enable the creation of powerful and scalable full-stack web applications.
+A React developer is a software developer who specializes in using React.js, a popular JavaScript library, to build user interfaces (UIs) for web applications. Their primary focus is on creating components (reusable building blocks of UI) and ensuring that applications are fast, responsive, and easy to use.s.
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [MyWebsight](http://AbduJea.com)
